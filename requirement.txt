@@ -1,0 +1,10 @@
+customtkinter
+numpy
+lightgbm
+pefile
+scikit-learn
+pandas
+tqdm
+signify
+thrember
+yara-python
